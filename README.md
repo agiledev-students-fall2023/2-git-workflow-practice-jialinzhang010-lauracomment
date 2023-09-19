@@ -1,2 +1,5 @@
 # [How to Become a Software Engineer: A Comprehensive Guide](https://www.simplilearn.com/how-to-become-a-software-engineer-article)
 This article serves as a fundamental introduction to the roles and responsibilities of software engineers in the industry. Offering comprehensive and easily understandable insights, the article aims to equip undergraduate students majoring in computer science or related fields with a clear understanding of what they can expect in their professional lives post-graduation. The content is tailored to provide valuable information for those looking to transition from academic settings to the practical world of software engineering.
+
+# Comment from Laura Zhao
+It is a useful article explaining what is software engineering, the roles and responsibilities of a software engineer, and the skills needed for becoming a software engineer. It highlights multiple abilities, some of the important ones I think are problem-solving skills, the ability to troubleshoot and debug, and experience working with coding language.
