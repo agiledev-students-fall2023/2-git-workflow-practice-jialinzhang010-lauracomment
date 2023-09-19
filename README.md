@@ -1,2 +1,2 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# [How to Become a Software Engineer: A Comprehensive Guide](https://www.simplilearn.com/how-to-become-a-software-engineer-article)
+This article serves as a fundamental introduction to the roles and responsibilities of software engineers in the industry. Offering comprehensive and easily understandable insights, the article aims to equip undergraduate students majoring in computer science or related fields with a clear understanding of what they can expect in their professional lives post-graduation. The content is tailored to provide valuable information for those looking to transition from academic settings to the practical world of software engineering.
